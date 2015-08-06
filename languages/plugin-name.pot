@@ -1,0 +1,12 @@
+# Copyright (C) 2015 plugin-name
+# This file is distributed under the same license as the plugin-name package.
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin-name\n"
+"Report-Msgid-Bugs-To: http://github.com/username/plugin-name\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+

@@ -1,0 +1,17 @@
+{
+    "name": "jaxion-bootstrap",
+    "version": "1.0.0",
+    "homepage": "https://github.com/intraxia/jaxion-bootstrap",
+    "authors": [
+        "mAAdhaTTah <jamesorodig@gmail.com>"
+    ],
+    "description": "Bootstrap your WordPress plugin development with Jaxion.",
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "tests"
+    ]
+}

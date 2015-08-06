@@ -1,0 +1,17 @@
+filter:
+  excluded_paths: [tests/*]
+
+checks:
+  php:
+    custom_coding_standard:
+      git_repository: 'https://github.com/intraxia/codestyle'
+      git_version: 'e87330e48ede141072dc14a90228a86b64df2c3f'
+      ruleset_path: 'ruleset.xml'
+
+tools:
+  php_sim: true
+  php_pdepend: true
+  php_analyzer: true
+  external_code_coverage:
+    timeout: 600
+    runs: 3
